@@ -1,5 +1,5 @@
 # 💫 About Me
-🤝 I'm looking for guidance on large scale system design<br>🌱 I'm currently learning tensor parallelism<br>🗨️ Ask me about laptops!<br>✨ Fun (controversial?) Fact - Your "tech stack" doesn't matter. Just choose the most familiar one that solves your problems!
+🤝 I'm looking for guidance on large scale system design<br>🌱 I'm currently learning tensor parallelism<br>🗨️ Ask me about laptops & tech devices!<br>✨ Fun (controversial?) Fact - Your "tech stack" doesn't matter. Just choose the most familiar one that solves your problems!
 
 
 ## 🌐 Socials
